@@ -37,6 +37,7 @@
     "core": "file:../core",
     "dompurify": "^3.0.6",
     "downshift": "^7.6.0",
+    "gui": "file:",
     "lodash": "^4.17.21",
     "lowlight": "^3.3.0",
     "minisearch": "^7.0.2",
